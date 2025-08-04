@@ -29,7 +29,7 @@ This repository contains all tasks completed during my Cybersecurity Internship.
 - `port.html` – Viewable scan report  
 - `README.md` – Task explanation
 
-📂 [Go to Task 1 Folder](./task-1-port-scan/)
+📂 [Go to Task 1 Folder](https://github.com/mcranjit/Elevate-Labs-Cybersecurity-Internship/tree/main/Task%201)
 
 ---
 

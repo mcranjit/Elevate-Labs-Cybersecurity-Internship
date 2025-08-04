@@ -94,6 +94,11 @@ xsltproc port.xml -o port.html
 
 ---
 
+📄 Report Output
+🔗 [**Click here to view the live Nmap HTML Report**](https://ranjith241.neocities.org/port)
+
+---
+
 ## 🧠 Learning Outcome
 
 This task builds practical skills in:

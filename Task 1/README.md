@@ -29,7 +29,9 @@ To discover open ports on a local network host, identify services, and assess po
 **Command Used:**
 ```bash
 sudo nmap -v -sV -A -p1-65535 192.168.152.129 -oX port.xml
-xsltproc port.xml -o port.html````
+xsltproc port.xml -o port.html
+```
+````
 
 ### 🔍 Scan Options Explanation:
 

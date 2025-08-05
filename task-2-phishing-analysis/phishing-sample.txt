@@ -1,0 +1,19 @@
+From: "PayPal" <support@paypall-login.com>
+Subject: Urgent: Your PayPal Account Has Been Suspended
+
+Dear Customer,
+
+We have detected suspicious activity on your PayPal account. For your protection, your account has been temporarily suspended.
+
+To restore your account access, please verify your account information by clicking the link below:
+https://www.paypal.com.secure-verify-login.com
+
+If you do not complete this verification within 24 hours, your account will be permanently locked.
+
+Thank you for using PayPal.
+
+Sincerely,  
+PayPal Security Team
+
+---
+Note: This is an automated message. Please do not reply to this email.

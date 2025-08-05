@@ -1,0 +1,17 @@
+Return-Path: <support@paypall-login.com>
+Received: from mail.paypall-login.com (unknown [203.0.113.45])
+    by smtp.example.com (Postfix) with ESMTPSA id 2F4DF12345
+    for <victim@example.com>; Tue, 5 Aug 2025 10:25:15 +0530 (IST)
+Received-SPF: fail (example.com: domain of paypall-login.com does not designate 203.0.113.45 as permitted sender)
+Authentication-Results: smtp.example.com;
+    dkim=fail header.i=@paypall-login.com;
+    spf=fail smtp.mailfrom=support@paypall-login.com;
+    dmarc=fail header.from=paypall-login.com
+From: "PayPal Security" <support@paypall-login.com>
+Reply-To: noreply@paypall-login.com
+To: victim@example.com
+Subject: ⚠️ Account Access Limited - Urgent Action Required!
+Date: Tue, 5 Aug 2025 10:25:12 +0530
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Message-ID: <20250805102512.2F4DF12345@mail.paypall-login.com>

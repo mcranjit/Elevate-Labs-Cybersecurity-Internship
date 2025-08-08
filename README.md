@@ -49,6 +49,16 @@ This repo contains my completed tasks as part of the **Cybersecurity Internship 
 
 ---
 
+### ✅ Task 4: Firewall Configuration using UFW (Kali Linux)
+- Enabled and configured UFW to allow and block specific ports
+- Allowed SSH (Port 22), blocked Telnet (Port 23)
+- Practiced deleting and re-adding firewall rules
+- Captured command outputs and behavior
+- Summarized how firewall filters traffic and protects systems
+- 🔗 [task-4-firewall-config/](./task-4-firewall-config)
+
+---
+
 ## 🚀 Technologies Used
 - Kali Linux
 - Nmap

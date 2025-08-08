@@ -55,7 +55,8 @@ This repo contains my completed tasks as part of the **Cybersecurity Internship 
 - Practiced deleting and re-adding firewall rules
 - Captured command outputs and behavior
 - Summarized how firewall filters traffic and protects systems
-- 🔗 [task-4-firewall-config/](./task-4-firewall-config)
+
+📁 [task-4-firewall-config/](./task-4-firewall-config)
 
 ---
 
@@ -68,6 +69,24 @@ This repo contains my completed tasks as part of the **Cybersecurity Internship 
 - GitHub for documentation
 
 ---
+## 📚 What I Learned
+- Network enumeration and port scanning
+- Phishing email detection through header analysis
+- Vulnerability scanning and CVE documentation
+- Linux firewall management using UFW
+- Real-world impact of insecure configurations
+
+---
+
+## 🚀 What's Next?
+Stay tuned for more advanced tasks involving:
+- Web application testing
+- Secure configuration auditing
+- Threat analysis and mitigation
+
+Thanks to **Elevate Labs** for this opportunity to build my skills with hands-on cybersecurity work!
+
+---
 
 👨‍💻 **Author**: Ranjith  
 Cybersecurity Intern at Elevate Labs
@@ -76,6 +95,6 @@ GitHub: [ranjithmc](https://github.com/mcranjit)
 ---
 
 ## 📫 Submission Status
-✅ Tasks 1, 2, and 3 – **Completed & Documented**
+✅ Tasks 1, 2, 3 and 4 – **Completed & Documented**
 
 ---

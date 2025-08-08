@@ -104,7 +104,7 @@ Result:
 
 ---
 
-### 🧾 9. Documented Commands Used
+### 🧾Documented Commands Used
 
 Here’s a full list of all UFW commands used in this task:
 
@@ -121,7 +121,7 @@ No GUI steps were used, as all configurations were done via terminal.
 
 ---
 
-### 🔎 8. How Firewall Filters Traffic
+### 🔎How Firewall Filters Traffic
 
 A firewall works by applying rules that either allow or block network traffic based on specific conditions such as:
 

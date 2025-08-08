@@ -26,7 +26,7 @@ This repo contains my completed tasks as part of the **Cybersecurity Internship 
 - Output: [View Scan Report](https://ranjith241.neocities.org/port)
 - Deliverables: `port.xml`, `port.html`, summary report
 
-📁 [task-1-port-scanning/](./Task1)
+📁 [task-1-port-scanning/](https://github.com/mcranjit/Elevate-Labs-Cybersecurity-Internship/tree/main/Task%201)
 
 ---
 

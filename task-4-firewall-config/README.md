@@ -119,6 +119,8 @@ Re-add deny rule	sudo ufw deny 23
 
 No GUI steps were used, as all configurations were done via terminal.
 
+---
+
 ### 🔎 8. How Firewall Filters Traffic
 
 A firewall works by applying rules that either allow or block network traffic based on specific conditions such as:
